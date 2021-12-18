@@ -29,6 +29,9 @@ ol{
     margin-top: 20px;
 
 }
+#home{
+    color:yellow;
+}
 form{
     margin-top: 90px;
     margin-left:970px ;
@@ -61,7 +64,7 @@ form{
 }
 .left{
     width: 220px;
-    height: 750px;
+    height: 800px;
     display: inline-block;
     position: absolute;
     background-image: linear-gradient(rgb(129, 149, 180),rgb(90, 163, 153),rgb(77, 121, 172),rgb(174, 174, 212));
@@ -128,10 +131,19 @@ form{
 }
 .main{
     width: 1069px;
-    height: 750px;
+    height: 800px;
     margin-left: 210px;
     display: inline-block;
     background-image: linear-gradient(rgb(129, 149, 180),rgb(90, 163, 153),rgb(77, 121, 172),rgb(174, 174, 212));
+}
+marquee{
+    background-color: rgba(141, 37, 115, 0.438);
+    color: whitesmoke;
+    font-style: italic;
+    font-weight: bold;
+    border: 2px solid white;
+    margin-left: 9px;
+    border-radius: 8px;
 }
 .card-img-top{
     margin: 10px;
