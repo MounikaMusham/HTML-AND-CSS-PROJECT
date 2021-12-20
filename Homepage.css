@@ -1,5 +1,5 @@
 .top{
-    width: 100%;
+    width: 1490px;
     height: 180px;
     background-image: linear-gradient(rgb(129, 149, 180),rgb(90, 163, 153),rgb(77, 121, 172),rgb(174, 174, 212));
     display: flex;
@@ -154,13 +154,14 @@ marquee{
 }
 .card{
     display: inline-block;
+    margin: 5px;
     background-image: linear-gradient(rgb(129, 149, 180),rgb(90, 163, 153),rgb(77, 121, 172),rgb(174, 174, 212));
 }
 img{
     padding: 5px;
 }
 .bottom{
-    width: 100%;
+    width: 1490px;
     height: 200px;
     /* border: 2px solid red;
     margin: 2px; */
