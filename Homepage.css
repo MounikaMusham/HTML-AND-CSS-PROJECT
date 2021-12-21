@@ -4,7 +4,7 @@ body{
 }
 
 .top{
-    width: 1490px;
+    width: 1560px;
     height: 180px;
     background-image: linear-gradient(rgb(129, 149, 180),rgb(90, 163, 153),rgb(77, 121, 172),rgb(174, 174, 212));
     display: flex;
@@ -135,7 +135,7 @@ form{
     padding-top: 15px;
 }
 .main{
-    width: 1280px;
+    width: 1350px;
     height: 800px;
     margin-left: 210px;
     display: inline-block;
@@ -167,7 +167,7 @@ img{
     padding: 5px;
 }
 .bottom{
-    width: 1490px;
+    width: 1560px;
     height: 200px;
     /* border: 2px solid red;
     margin: 2px; */
