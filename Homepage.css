@@ -1,3 +1,8 @@
+body{
+    background-image: linear-gradient(rgb(129, 149, 180),rgb(90, 163, 153),rgb(77, 121, 172),rgb(174, 174, 212));
+    background-size: cover;
+}
+
 .top{
     width: 1490px;
     height: 180px;
@@ -134,6 +139,7 @@ form{
     height: 800px;
     margin-left: 210px;
     display: inline-block;
+    overflow: hidden;
     background-image: linear-gradient(rgb(129, 149, 180),rgb(90, 163, 153),rgb(77, 121, 172),rgb(174, 174, 212));
 }
 marquee{
@@ -154,7 +160,7 @@ marquee{
 }
 .card{
     display: inline-block;
-    margin: 5px;
+    margin: 7px;
     background-image: linear-gradient(rgb(129, 149, 180),rgb(90, 163, 153),rgb(77, 121, 172),rgb(174, 174, 212));
 }
 img{
